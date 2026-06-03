@@ -27,7 +27,7 @@ Extrae información de la página de Wikipedia de la montaña rusa <a href="http
 ### 1. Clonar o descargar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/iron-gwazi-scraper.git
+git clone https://github.com/LovecraftianCode/Iron-Gwazi-Web-Scraper.git
 cd iron-gwazi-scraper
 ```
 
